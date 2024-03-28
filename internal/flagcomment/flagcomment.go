@@ -7,7 +7,6 @@ import (
 	"net/http"
 	"strings"
 	"time"
-    "fmt"
 )
 
 type Choice struct {
